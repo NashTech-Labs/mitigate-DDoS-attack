@@ -5,3 +5,5 @@
 # How to use
 -  run ```sh getServerInfo.sh``` to get Server Information, such as CPU info and system uptime.
 - run ``` sh blockMaliciousIP.sh``` to block unwanted and malicious IP addresses.
+
+Blog related to this. [https://blog.knoldus.com/basics-of-ddos-attack/]
